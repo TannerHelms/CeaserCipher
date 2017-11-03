@@ -7,8 +7,9 @@ public class ArrayFun {
 	public void showInstructions() {
 		
 		// Next time:  Fix this tedious mess of code with an ARRAY - YEAH!
-
-		String msg = "Essential rules for arrays";
+		/*
+		String msg = "";
+		String msg0 = "Essential rules for arrays";
 		String msg1 = "1. Arrays have a FIXED length!!! " + "At the time they are created.";
 		String msg3 = "2. Two ways to set array size:";
 		String msg4 = "-- one way is to set size when created with [size]";
@@ -19,8 +20,21 @@ public class ArrayFun {
 		
 		msg = (msg + "\n" + msg1 + "\n" + msg3 + "\n" + msg4 + "\n" + msg5
 				+ msg6 + "\n" + msg7 + "\n" + msg8);
-
-		JOptionPane.showMessageDialog(null, msg);
+		*/
+		
+		String[] msgArray = {
+				"Essential rules for arrays",
+				"1. Arrays have a FIXED length!!! At the time they are created.",
+				"2. Two ways to set array size:",
+				"-- one way is to set size when created with [size]",
+				"-- other way is to set size from initial data {n1,n2..}\\",
+				"Dynamic - when program is running:",
+				"Can NOT NOT NO WAY NO HOW change SIZE of the array!!",
+				"But OF COURSE you can change values!"	
+		};
+		
+		
+		JOptionPane.showMessageDialog(null, msgArray);
 
 	}
 
