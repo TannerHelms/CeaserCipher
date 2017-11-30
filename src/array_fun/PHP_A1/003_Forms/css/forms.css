@@ -1,0 +1,80 @@
+body {
+        background-image: url("wood.jpg ");
+}
+h1 {
+	text-align: center;
+	color: #FF0000;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px 
+}
+
+h2 {
+	text-align: center;
+	color: #00FF00;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px 
+}
+
+h3 {
+	text-align: center;
+	color: #FF0000;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px 
+}
+#a1 {
+	text-align: left;
+	color: #66ccff;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px 
+	
+}
+body {
+	margin: 0;
+	padding: 0;
+	background: #000000;
+}
+#formone{
+	text-align:left;
+}
+
+
+hr {
+	
+	border-width: 5px;
+	border-color: #4dff4d;
+	border-style: solid;
+	
+	
+}
+h4 {
+	text-align: center;
+	color: #4dff4d;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px 
+	
+	
+}
+
+#F14 {
+	
+	border: 10px solid #FF0000;
+	border-radius: 10px;
+	padding: 10px;
+	box-shadow: 20px 20px 40px #0000FF;
+	width: 500px;
+	text-align: center;
+	
+}
+.hidden {
+        display: none;
+      }
+table th, td{
+	background-color: #66ccff;
+	color: #4dff4d;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px 
+}
+      
+
+
+/*   font-family: 'Varela Round', sans-serif;
