@@ -1,0 +1,41 @@
+body {
+	background-color: blue;
+}
+
+h1 {
+	text-align: center;
+	color: #FF0000;
+}
+
+h2 {
+	text-align: center;
+	color: #00FF00;
+}
+
+h3 {
+	text-align: center;
+	color: #0000FF;
+}
+
+hr {
+	
+	border-width: 3px;
+	border-color: #FF0000;
+	border-style: solid;
+	
+}
+
+#F14div {
+	
+	text-align: center;
+	
+}
+
+#F14 {
+	
+	border: 10px solid #FF0000;
+	border-radius: 10px;
+	padding: 10px;
+	box-shadow: 20px 20px 40px #0000FF;
+	
+}

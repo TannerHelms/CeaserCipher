@@ -1,0 +1,131 @@
+body {
+	background-image: url("wood.jpg ");
+	margin: 0px;
+	padding: 50px;
+}
+#fullbody{
+    margin: auto;
+    width: 1000px;
+    padding: 10px;
+
+}
+h1 {
+	text-align: center;
+	color: #FF0000;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px
+}
+
+h2 {
+	text-align: center;
+	color: #00FF00;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px
+}
+
+h3 {
+	text-align: center;
+	color: #FF0000;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px
+}
+#a1 {
+	text-align: left;
+	color: #66ccff;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px
+}
+#a2 {
+	text-align: left;
+	color: #66ccff;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px
+}
+
+#formone {
+	padding-bottom: 50px;
+
+	
+}
+
+hr {
+
+	border-width: 5px;
+	border-color: #4dff4d;
+	border-style: solid;
+}
+h4 {
+	text-align: center;
+	color: #4dff4d;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px
+}
+
+#F14 {
+
+	border: 10px solid #FF0000;
+	border-radius: 10px;
+	padding: 10px;
+	box-shadow: 20px 20px 40px #0000FF;
+	width: 500px;
+	text-align: center;
+}
+.hidden {
+	display: none;
+}
+table th, td {
+	padding: 10px;
+	background-color: black;
+	color: #4dff4d;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-shadow: 2px 2px 2px
+}
+#circleball{
+	height: 250:
+	width:200;
+	position: fixed;
+	left: 20%;
+	top: 30%;
+	transform: scale(0.5, 0.5);
+	transform: rotate(90deg);
+	
+	/*
+	-webkit-transform: rotate(360deg);
+    -webkit-transition-duration: 1s;
+    -webkit-transition-delay: now;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    */
+}
+#circleball1{
+	height: 250:
+	width:100%;
+	position: fixed;
+	left: 20%;
+	top: 55%;
+	transform: scale(0.5, 0.5);
+	transform: rotate(90deg);
+	
+	/*
+	-webkit-transform: rotate(360deg);
+    -webkit-transition-duration: 1s;
+    -webkit-transition-delay: now;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    */
+}
+#theform{
+    height:400px;
+    width:auto;
+    position:relative;
+}
+.top{top:0}
+.middle{top:50%;margin-top:-10px;/*half of the .box height*/}
+.bottom{bottom:0}
+
+.left{left:0;}
+.center{left:50%;margin-left:-10px;/*half of the .box width*/}
+.right{right:0;}
+
+
+/*   font-family: 'Varela Round', sans-serif;
